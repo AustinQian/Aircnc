@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project featuring React/Tailwind CSS/Prisma/MongoDB/NextAuth
+This is a [Next.js](https://nextjs.org/) Airbnb clone project featuring React/Tailwind CSS/Prisma/MongoDB/NextAuth
 
 ## Getting Started
 
